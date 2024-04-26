@@ -3,6 +3,7 @@
 .bg-hero-image{
     background-image: url('images/cyber-security-specialist-628x353.avif');
     background-position: center center ;
+
 }
 /* end */
 
@@ -27,4 +28,3 @@ h5{
     background-color:rgb(228, 228, 228);
 box-shadow: 10px 10px 2px;
 }
-
